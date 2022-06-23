@@ -13,6 +13,13 @@ Get into the project paste and run
 ```
 python program.py
 ```
+
+To run the tests 
+
+```
+pytest
+```
+
 Architectur
 -----------------
 1. Python for the development 
